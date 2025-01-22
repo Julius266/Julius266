@@ -90,7 +90,7 @@
 <ul>
 
 <li>
-<a href="linkedin.com/in/julio-vinces-444a7b2bb" target="_blank">
+<a href="https://www.linkedin.com/in/julio-vinces-444a7b2bb/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Julio Vinces-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
