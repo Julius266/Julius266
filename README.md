@@ -90,7 +90,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/julio-ramon-vinces-444a7b2bb/" target="_blank">
+<a href="https://www.linkedin.com/in/julio-ramon-vinces-444a7b2bb" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Julio Vinces-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -99,7 +99,7 @@
 
 <li>
 <a href="https://x.com/vinces_b" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Julio Vinces-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  Julio Ramón Vinces B-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -107,7 +107,7 @@
 
 <li>
 <a href="mailto:jvi3991zrj@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Julio Vinces-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  jvi3991zrj@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -135,4 +135,4 @@
 <br>
 
 
-Last Edited on: 21/01/2025
+Last Edited on: 21/01/2025  
